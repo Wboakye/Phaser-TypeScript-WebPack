@@ -1,0 +1,21 @@
+{
+  "name": "phasertypescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": { 
+    "build": "webpack", 
+    "dev": "webpack-dev-server" 
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "copy-webpack-plugin": "^5.0.4",
+    "phaser": "^3.19.0",
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.5.3",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7",
+    "webpack-dev-server": "^3.8.0"
+  }
+}
